@@ -1,0 +1,93 @@
+body {
+   /* background-color: black; */
+   background: linear-gradient(black ,
+   gray) fixed;
+    color: white;
+}
+.phone {
+  padding: 30px,;
+  background-image: url("phone.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+}
+.container {
+    
+    text-align: left;
+    padding: 30px;
+    margin:; 0 0 0 0;
+
+}
+.serega {
+ 
+padding: auto;
+background-position: center;
+  background-size: cover;
+  border-style: solid;
+  color: black;
+
+ /* border:5px ; */
+  border-radius: 50%; 
+  
+}
+
+.figure{
+    text-align: center;
+    font-size: 20px;
+    
+}
+.h1 {
+    font-size: 30px ;
+    font-family: Georgia;
+    padding: 45px 10px 10px 10px;
+}
+.h2{
+    font-size: 30px ;
+    font-family: Georgia;
+    margin: 80px 120px 20px 120px;
+}
+.black_phone{
+    width: 70%;
+    margin: auto;
+    min-height: 3000px;
+ /*   background: linear-gradient(gray, black) fixed; */
+ background:rgba(0,0,0,0.3); 
+ 
+   
+}    
+.text_up{
+    font-family: Georgia;
+    padding: 0px 30px 0px 30px;
+    
+}
+ 
+.text_down{
+    font-family: Georgia;
+    padding: 0px 30px 0px 30px;
+    
+}
+.work{
+    margin: 35px 35px 35px 35px;
+background-position: center;
+  background-size: cover;
+  border-style: solid;
+  color: black;
+  border-radius: 50%; 
+  
+}
+
+.text_down2{
+    font-family: Georgia;
+    padding: 0px 30px 80px 30px;
+}
+.h4{
+    font-size: 30px ;
+    font-family: Georgia;
+    margin: 80px 140px 20px 140px;
+}
+.vk{
+    margin: 0 275px 0 275px;
+background-position: center;
+  background-size: cover;
+}
